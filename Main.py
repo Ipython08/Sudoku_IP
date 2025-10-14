@@ -3,7 +3,6 @@ import random
 import openpyxl
 import json
 import os
-import sys
 from openpyxl.styles import Border, Side, Alignment, Font
 import mysql.connector
 import tkinter as tk
@@ -543,4 +542,5 @@ while(True):
         user = input("Username: ")
     elif command == "0":
         print("\nExiting Sudoku. Goodbye!")
+
         break
