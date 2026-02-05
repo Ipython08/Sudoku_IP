@@ -1,2 +1,2 @@
 openpyxl
-mysql.connector
+mysql-connector-python
